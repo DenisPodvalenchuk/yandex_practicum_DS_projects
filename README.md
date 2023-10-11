@@ -1,4 +1,4 @@
-![](https://github.com/kharnakhoeva/portfolio/blob/main/ds.jpg)
+![](https://github.com/DenisPodvalenchuk/portfolio/edit/main/ds.jpg)
 
 # Обо мне
 
