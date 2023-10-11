@@ -1,5 +1,5 @@
-![](https://github.com/DenisPodvalenchuk/portfolio/edit/main/ds.jpg)
-
+![](https://github.com/DenisPodvalenchuk/portfolio/blob/main/ds.jpg)
+![](https://github.com/kharnakhoeva/portfolio/blob/main/15440802a87846e98df2971e7e8d8c35.jpg)
 # Обо мне
 
 Здравствуйте! Меня зовут Денис и это мои проекты, которые я выполнял при обучении в Яндекс Практикуме по программе профессиональной переподготовки
