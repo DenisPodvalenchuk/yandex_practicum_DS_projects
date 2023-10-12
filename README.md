@@ -19,7 +19,7 @@
 
  | Проект | Задачи проекта | Стек |
 | :-----------| :----------- | :----------- |
-| [Прогнозирование оттока телеком компании](https://github.com/DenisPodvalenchuk/portfolio/blob/main/final) | Прогнозирование оттока телеком компании | Python, Matplotlib, Seaborn, NumPy, Sklearn, CatBoost, LightGBM, XGBoost
+| [Прогнозирование оттока клиентов оператора связи «ТелеДом»](https://github.com/DenisPodvalenchuk/portfolio/blob/main/final) | Прогнозирование оттока телеком компании | Python, Matplotlib, Seaborn, NumPy, Sklearn, CatBoost, LightGBM, XGBoost
 
 ## Портфолио DA/DS - проектов
 
