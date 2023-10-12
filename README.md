@@ -19,14 +19,14 @@
 
  | Проект | Задачи проекта | Стек |
 | :-----------| :----------- | :----------- |
-| [Телеком](https://github.com/DenisPodvalenchuk/portfolio/blob/main/final) | Оператор связи «ТелеДом» хочет бороться с оттоком клиентов. Для этого его сотрудники начнут предлагать промокоды и специальные условия всем, кто планирует отказаться от услуг связи. Чтобы заранее находить таких пользователей, «ТелеДому» нужна модель, которая будет предсказывать, разорвёт ли абонент договор. Команда оператора собрала персональные данные о некоторых клиентах, информацию об их тарифах и услугах. Задача — необходимо обучить на этих данных модель для прогноза оттока клиентов. | Python, Matplotlib, Seaborn, NumPy, Sklearn, CatBoost, LightGBM, XGBoost
+| [Прогнозирование оттока телеком компании](https://github.com/DenisPodvalenchuk/portfolio/blob/main/final) | Прогнозирование оттока телеком компании | Python, Matplotlib, Seaborn, NumPy, Sklearn, CatBoost, LightGBM, XGBoost
 
 ## Портфолио DA/DS - проектов
 
  | Проект | Задачи проекта | Стек |
 | :-----------| :----------- | :----------- |
 | [Анализ рынка российского кинопроката](https://github.com/DenisPodvalenchuk/portfolio/blob/main/p1) | Задача: необходимо изучить рынок российского кинопроката и выявить текущие тренды. Так же необходимо ответить на вопрос, насколько фильмы получившие государственную поддержку, интересны зрителю | Python, Pandas, Matplotlib, NumPy |
-| [Предсказание отказ от брони](https://github.com/DenisPodvalenchuk/portfolio/blob/main/p2) | Задача: необходимо создать систему, которая сможет предсказывать отказ клиента от брони | Python, Pandas, Matplotlib, NumPy, Sklearn, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, StandardScaler, OneHotEncoder |
-| [Оценка риска ДТП по выбранному маршруту движения авто](https://github.com/DenisPodvalenchuk/portfolio/blob/main/p3) | Задача: Необходимо создать систему, которая могла бы оценить риск ДТП по выбранному маршруту движения | Python, Pandas, NumPy, Sqlalchemy, Sklearn, GridSearchCV, DecisionTreeClassifier, RandomForestClassifier, LightGBM, StandardScaler, OneHotEncoder |
+| [Предсказание отказа от брони](https://github.com/DenisPodvalenchuk/portfolio/blob/main/p2) | Задача: необходимо создать систему, которая сможет предсказывать отказ клиента от брони | Python, Pandas, Matplotlib, NumPy, Sklearn, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, StandardScaler, OneHotEncoder |
+| [Разработка системы предупреждения аварий на каршеринге](https://github.com/DenisPodvalenchuk/portfolio/blob/main/p3) | Задача: Разработка системы предупреждения аварий на каршеринге | Python, Pandas, NumPy, Sqlalchemy, Sklearn, GridSearchCV, DecisionTreeClassifier, RandomForestClassifier, LightGBM, StandardScaler, OneHotEncoder |
 | [Поиск по изображениям](https://github.com/DenisPodvalenchuk/portfolio/blob/main/p4) | Задача: Необходимо  разработать демонстрационную версию поиска изображений по запросу | Python, Pandas, Matplotlib, NumPy, Image, Os, Nltk StandardScaler, Tensorflow, Keras, GroupShuffleSplit, Torch |
 
